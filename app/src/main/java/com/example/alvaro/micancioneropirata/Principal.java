@@ -13,7 +13,7 @@ public class Principal extends AppCompatActivity {
 
     public final static String EXTRA_NOMBRE = "Nombre";
     ListView lv;
-    String[] titulo_cancion = {"Cupcake v1.5", "Donut v1.6", "Éclair v2.0/2.1", "Froyo v2.2",
+    String[] titulo_cancion = {"No se compara", "Donut v1.6", "Éclair v2.0/2.1", "Froyo v2.2",
             "Gingerbread v2.2", "Honeycomb v3.0/3.1"};
     @Override
     public void onCreate(Bundle savedInstanceState) {
