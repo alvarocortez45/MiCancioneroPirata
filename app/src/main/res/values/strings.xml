@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MiCancioneroPirata</string>
+    <string name="no_se_compara">vamos, vamos, vamos los piratas!!\nla Banda esta alentando\ncopa en todas las canchas!!\nsolo pido que vayas al frente\n
+                    que juegue \"A LO BELGRANO\", te lo pide la gente!!\nnooooo se compara!!\nesta es la gloriosa primera Barra!!\nes diferente!! vayas donde vayas estara presente\n</string>
+    <string name="belgrano_esta_de_fiesta_y_vos_de_luto">
+        Che galleres puto\nBELGRANO esta de fiesta y vos de luto\nte vamos a correr de la argentina\ny vamos a poner un cementerio de gallinas</string>
+
 </resources>
