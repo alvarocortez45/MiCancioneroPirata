@@ -17,7 +17,11 @@ public class Principal extends AppCompatActivity {
     public final static String EXTRA_NOMBRE = "Nombre";
     ListView lv;
     String[] titulo_cancion = {"No se compara", "Belgrano esta de fiesta y vos de luto", "Gallina no me jodas jamas", "Pajaritos en el aire",
-            "Gingerbread v2.2", "Honeycomb v3.0/3.1"};
+            "Hay que alentar hasta la muerte", "Vos sos la alegría de mi corazón", "Ya llego la banda", "Ya volvimos otra vez", "Yo siempre te voy a alentar",
+            "No le falles a tu gente", "Somos lo mas grande del futbol nacional", "Juegue dejando la vida", "El orgullo de ser hincha de Belgrano",
+            "De pronto llega el domingo", "Vamos Belgrano cada dia te quiero mas", "Viejo y glorioso Belgrano", "De la cabeza",
+            "Es una locura que no tiene cura", "No le falles a tu hinchada", "Somos de la gloriosa", "En Alberdi todo el año es carnaBal",
+            "Por Belgrano vivire", "Soy de Belgrano", "Hay una banda que te sigue siempre a todos lados", "Todos los domingos", "No se como voy"};
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
