@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:paddingLeft="16dp"
     android:background="#03A9F4"
     android:orientation="vertical"
     tools:context="com.example.alvaro.micancioneropirata.Visor">
@@ -22,6 +23,7 @@
         android:layout_marginTop="16dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="16sp"
         android:text=""
         android:textColor="#000000"/>
 
@@ -29,9 +31,19 @@
         android:id="@+id/link_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
         android:background="#F44336"
         android:text="Reproducir en YouTube"
         android:drawableRight="@mipmap/youtube_icon"
         android:onClick="openWebPage" />
+
+    <Button
+        android:id="@+id/share_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="compartir letra"
+        android:background="#76FF03"
+        android:onClick="share"/>
 
 </LinearLayout>

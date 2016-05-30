@@ -107,9 +107,34 @@ public class Visor extends ActionBarActivity {
             letraView.setText(R.string.no_le_falles_a_tu_hinchada);
             url = "https://youtu.be/2g45GCntm2Q";
         }
-
-
-
+        if (titulo_cancion.equals("Somos de la gloriosa")) {
+            letraView.setText(R.string.somos_de_la_gloriosa);
+            url = "https://youtu.be/F87h2ytFTy8";
+        }
+        if (titulo_cancion.equals("En Alberdi todo el año es carnaBal")) {
+            letraView.setText(R.string.en_alberdi_todo_el_año_es_carnabal);
+            url = "https://youtu.be/PT-mqsri2Mw";
+        }
+        if (titulo_cancion.equals("Por Belgrano vivire")) {
+            letraView.setText(R.string.por_belgrano_vivire);
+            url = "https://youtu.be/a3SCJ5XSPdk";
+        }
+        if (titulo_cancion.equals("Soy de Belgrano")) {
+            letraView.setText(R.string.soy_de_belgrano);
+            url = "https://youtu.be/XCvhOF44goo";
+        }
+        if (titulo_cancion.equals("Hay una banda que te sigue siempre a todos lados")) {
+            letraView.setText(R.string.hay_una_banda_que_te_sigue_siempre_a_todos_lados);
+            url = "https://youtu.be/SD9H4QXh-hU";
+        }
+        if (titulo_cancion.equals("Todos los domingos")) {
+            letraView.setText(R.string.todos_los_domingos);
+            url = "https://youtu.be/ju8VyULdQWY";
+        }
+        if (titulo_cancion.equals("No se como voy")) {
+            letraView.setText(R.string.no_se_como_voy);
+            url = "https://youtu.be/jDd8kH8JfeY";
+        }
 
 
         return url;
@@ -122,4 +147,15 @@ public class Visor extends ActionBarActivity {
             startActivity(intent);
         }
     }
+
+    public void share(View view){
+        Intent intent = new Intent(Intent.ACTION_SEND);
+        intent.setType("*/*");
+        intent.putExtra(Intent.EXTRA_TEXT, letraView.getText());
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
+    }
+
+
 }
