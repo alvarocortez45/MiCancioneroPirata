@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class Visor extends ActionBarActivity {
-
+    String url="";
     private TextView tituloView;
     private TextView letraView;
     @Override
@@ -27,31 +27,32 @@ public class Visor extends ActionBarActivity {
         tituloView.setText(titulo_cancion);
     }
 
-    public void setLetra(){
+    public String setLetra(){
         letraView = (TextView)findViewById(R.id.Letra_TextView);
         Intent intent = getIntent();
         String titulo_cancion = intent.getStringExtra(Principal.EXTRA_NOMBRE);
         if (titulo_cancion.equals("No se compara")){
             letraView.setText(R.string.no_se_compara);
-        }
-        if (titulo_cancion.equals("Belgrano esta de fiesta y vos de luto")){
-            letraView.setText(R.string.belgrano_esta_de_fiesta_y_vos_de_luto);
-        }
-    }
-    public String setLink(){
-        String url = "";
-        Intent intent = getIntent();
-        String titulo_cancion = intent.getStringExtra(Principal.EXTRA_NOMBRE);
-        if (titulo_cancion.equals("No se compara")){
             url = "https://www.youtube.com/watch?v=Oo541M6emKw";
         }
         if (titulo_cancion.equals("Belgrano esta de fiesta y vos de luto")){
+            letraView.setText(R.string.belgrano_esta_de_fiesta_y_vos_de_luto);
             url = "https://www.youtube.com/watch?v=4RHDlJmpQyc";
         }
+        if (titulo_cancion.equals("Gallina no me jodas jamas")){
+            letraView.setText(R.string.gallina_no_me_jodas_jamas);
+            url= "https://youtu.be/0-XOgHcELoE";
+        }
+        if (titulo_cancion.equals("Pajaritos en el aire")){
+            letraView.setText(R.string.gallina_no_me_jodas_jamas);
+            url="https://youtu.be/Nb7vtYTnz8A" ;
+        }
+
+
         return url;
     }
+
     public void openWebPage(View view) {
-        String url = setLink();
         Uri webpage = Uri.parse(url);
         Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
         if (intent.resolveActivity(getPackageManager()) != null) {

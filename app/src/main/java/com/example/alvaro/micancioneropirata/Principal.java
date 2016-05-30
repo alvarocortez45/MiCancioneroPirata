@@ -12,14 +12,11 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.content.Intent;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Principal extends AppCompatActivity {
 
     public final static String EXTRA_NOMBRE = "Nombre";
     ListView lv;
-    String[] titulo_cancion = {"No se compara", "Belgrano esta de fiesta y vos de luto", "Éclair v2.0/2.1", "Froyo v2.2",
+    String[] titulo_cancion = {"No se compara", "Belgrano esta de fiesta y vos de luto", "Gallina no me jodas jamas", "Pajaritos en el aire",
             "Gingerbread v2.2", "Honeycomb v3.0/3.1"};
 
     @Override

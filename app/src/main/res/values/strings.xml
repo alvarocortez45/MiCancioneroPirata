@@ -1,8 +1,85 @@
 <resources>
     <string name="app_name">MiCancioneroPirata</string>
-    <string name="no_se_compara">vamos, vamos, vamos los piratas!!\nla Banda esta alentando\ncopa en todas las canchas!!\nsolo pido que vayas al frente\n
-                    que juegue \"A LO BELGRANO\", te lo pide la gente!!\nnooooo se compara!!\nesta es la gloriosa primera Barra!!\nes diferente!! vayas donde vayas estara presente\n</string>
+
+    <string name="no_se_compara">
+        Vamos, vamos, vamos los piratas!!\nla Banda esta alentando\ncopa en todas las canchas!!\nsolo pido que vayas al frente\nque juegue \"A LO BELGRANO\", te lo pide la gente!!\nnooooo se compara!!\nesta es la gloriosa primera Barra!!\nes diferente!! vayas donde vayas estara presente\n</string>
+    
     <string name="belgrano_esta_de_fiesta_y_vos_de_luto">
         Che galleres puto\nBELGRANO esta de fiesta y vos de luto\nte vamos a correr de la argentina\ny vamos a poner un cementerio de gallinas</string>
+    
+    <string name="gallina_no_me_jodas_jamas">
+        YO SOY DEL BARRIO DE LA DOCTA\nSE SABE DEL MAS POPULAR\nLA ENVIDIA DE ALGUNOS AMARGOS\nQUE NO TIENEN IDENTIDAD\nGALLINA NO ME JODAS JAMAS VAS A SER IGUAL!!!\nSOY HINCHA DE BELGRANO Y NO VOY A CAMBIAR\nAUNQUE PASEN LOS AÑOS ME VAS A VER IGUAL\nY EL DIA QUE ME MUERA QUIERO QUE MI CAJON\nLO DEJEN POR ALBERDI COMO MI CORAZOOOONNN</string>
+    
+    <string name="pajaritos_en_el_aire">
+        Dale B siempre contas con esta hinchada,\nyo viaje siempre me vieron en las malas...\ntalleres ahora sabemos que estas vivo,\nsos asi fuiste en el ultimo partido...\nen la docta﻿ todo el mundo ya lo sabe,\nque el pirata es el que tiene mas aguante...\nes tu gente que te alienta en todos lados,\nyo soy hincha de belgrano todo el año.</string>
+    
+    <string name="hay_que_alentar_hasta_la_muerte">
+        Hayyy que alentar hasta la muerte\nporque a Belgrano yo lo quiero porque fue mi amor primero\nlo llevoo en el  corazoooon y no soy del cervecero\nque anda siempre en patrullero de la mano del matador\nohhh ohhh el que no salta es de colon ohhh ohh el que no\nsalta es de colon!!</string>
+    
+    <string name="vos_sos_la_alegria_de_mi_corazon">
+        Dale BELGRANOOOO!!\nBos sos la alegria de mi corazon..\nno puedo parar, es una locura es una enfermedad..\nte Bengo a alentar, en las buenas o en las malas ami me da igual..\na donde jugas, te acompaño con la fiesta con el carnaBal..\nyo soy asi!! pirata hasta el final!!\nde visitante o de local, me Bas a encontrar!!</string>
+    
+    <string name="ya_llego_la_banda">
+        Ya llegó la Banda, llegó la primera Barra..\nmeta porquerias copamo´ en todas las canchas,\nYO SOY DE BELGRANO, lo sigo desde pendejo,\ngalleres y toda la yuta ami me chupan un huevo!!</string>
+    
+    <string name="ya_volvimos_otra_vez">
+        Bamo Bamo los celestes, que tenemos que ganar..\nque la Banda ta re loca y no te deja de alentar,\nyo te sigo a todos lados, cada Bez te quiero más!!\nBelgrano esta noche no podes perder!!\nla alegría se lleva en la piel YA BolBimos otra Bez!!\npongan huevo los celestes que tenemos que ganar,\nque la Banda ta re loca y no te deja de alentar,\nami ya nada me importa los que digan los demás,\nyo te sigo a todos lados no te voy a abandonar!!!!</string>
+    
+    <string name="yo_siempre_te_voy_a_alentar">
+        Yo siempre te Boy a alentar, te lo...\nen las buenas y en las malas siempre Boy a estar con Bos!!\ny aunque pase el tiempo, sigo a tu lado,\nBoy a la cancha descontrolado,\ndesde pendejo yo soy asi,\nYO SOY PIRATA DESDE QUE NACI!!</string>
+    
+    <string name="no_le_falles_a_tu_gente">
+        Una alegría, que dura toda la Bida, yo jamas te dejaría,\nSIEMPRE TE BOY A QUEREEEEEER!!\nYo te aseguro, que esto no es ningun chamuyo, ser pirata es un orgullo,\nSOY DEL CAPO CORDOBEEEEES!!\nvamos los celestes, pongan huevo no le falles a tu gente...\nvamos los celestes, pongan huevo no le falles a tu gente....</string>
+    
+    <string name="somos_lo_mas_grande_del_futbol_nacional">
+        Que alegria que alegria ole ole ola\nvamos Belgrano todavia, que esta para ganar\ncon esta hinchada loca, nos fuimos de la B\nnos fuimos para nunca, para nunca volver\nY ahora es de Primera, les vamo a demostrar\nque somos lo mas gande, del futbol nacional</string>
 
+    <string name="juegue_dejando_la_vida">
+        Dale dale BELGRANO\njuegue dejando la vida\naunque no salgas campeon\nesta pasion no termina\nDesde pendejo te vengo alentar\nporque vos sos mi alegria\nganes o pierdas a mi me da igual\nsos la razon de mi vida\nPobres gallinas se quieren matar\nmientras el pirata delira\npara ser grande tenes que aguantar\nno con tribunas vacias!!!</string>
+    
+    <string name="el_orgullo_de_ser_hincha_de_belgrano">
+        Es la primera barra, la que viene por el sentimiento!!\nla que estuBo en la quiebra, la que se Banco muchos descensos..\naunque diga la envidia, que copamos estando en las buenas,\nvos jugaste las copas, y la cancha nunca es"t"uvo llena!!\nEL ORGULLO DE SER HINCHA DE BELGRANO,OHOHOHOH...\ny llevar esta locura a todos lados OHOHOHOH...\nyo soy grande gracias a toda esta gente,\nporque esta hinchada, ES DIFERENTE..\nporque en la docta todo es celeste!!</string>
+
+    <string name="de_pronto_llega_el_domingo">
+        De pronto llega el domingo, para ir a Ber a BELGRANO!!\nyo te sigo a todos lados, juegues en cualquier estadio,\nhoy te vinimos a Ber porque tenemos aguante,\nno somos como galleres, que son todos vigilan"T"es</string>
+
+    <string name="vamos_belgrano_cada_dia_te_quiero_mas">
+        BELGRANO te Bengo a Ber yo tengo aguante,\nte sigo de la CABeza a todas partes..\nla Banda de Los Piratas fumando chala te Ba a alentar,\nvamos BELGRANO que cada dia te quiero mas!!\ndale dale B!! dale dale B!! dale dale B!! dale dale B!!</string>
+
+    <string name="viejo_glorioso_belgrano">
+        Gracias BELGRANO querido!!\ngracias por las emociones, y todas las sensaciones,\nque nos hiciste pasar!!\nviejo y glorioso BELGRANO, de corazon sin igual..\ntu Barra te lo agradece, y te alienta hasta el final!!\ndale LA "B", dale LA "B", dale LA "B", dale LA "B", dale LA "B", dale LA "B", dale LA "B", dale LA "B"!!</string>
+
+    <string name="de_la_cabeza">
+        Y dale dale BELGRANO, a todas partes Boy con Bos..\nDE LA CABeza!!\nya no me importa si ganas, ya no me importa si perdes..\nquiero la vueeeelta!!\nche galleres no chamuyes, ves al pirata y siempre corres,\nvo´ a tu cancha no la llenas, vos sos amargo y no te paras!!</string>
+    
+    <string name="es_una_locura_que_no_tiene_cura">
+        La triBuna esta de fiesta, llegan los piratas..\nSomos la banda mas loca que no tiene ratas,\nno me importa lo que diga toda la gilada,\nsomos la primera Banda, y ami no me importa nada!!\noooohh es una locura que no tiene cura ni explicacion!!\nse que con esta hinchada no nos queda otra que salir campeón!!\nyyyyy que los jugadores juegan en la cancha como aliento yo, CON EL CORAZON!!</string>
+
+    <string name="no_le_falles_a_tu_hinchada">
+        Vamos BELGRANO no le falles a tu hinchada,\nla que te sigue en las buenas y en las malas,\nyo soy así... a BELGRANO lo quiero,\nvamo' a quemar... a todo el gallinero!\nYO TE QUIERO BELGRANO!!\nyo te quiero, vos sos mi Bida,\nsiempre te Boy a alentar, no como newells que es policia,\nBayas a donde Bayas, esta tu hinchada que siempre alienta,\nBamo LA B, Bamo a ganar..\nqueeeeee, la Banda esta de fiesta!!</string>
+
+    <string name="somos_de_la_gloriosa">
+        Somos de la gloriosa banda de los piratas,\nla que va a todas partes, se aguantá los kilombos...\na pesar de los años, los momentos vividos,\nsigo estando a tu lado che BELGRANO querido...\nche BELGRANO querido..</string>
+
+    <string name="en_alberdi_todo_el_año_es_carnabal">
+        Donde juegues te alentare,\ndonde vayas yo te seguire,\ndale la B\nyo te llevo en el corazon,\ndoy la vida por salir campeon... es mi ilusion!!\nsoy asi, nada me hara cambiar,\nen alberdi todo el año es carnabal,\njugando en primera,\ncon los bombo y las banderas,\nche gallina: vos ya no volves mas!</string>
+
+    <string name="por_belgrano_vivire">
+    Por BELGRANO viviré\ndonde juegues te seguiré\nni la muerte va a poder\ndesde el cielo te alentaré\nNo vengo por salir campeón,\nvengo porque TE QUIERO.\nyo vengo para recordar,\na los que ya se fueron.\nDoy gracias a todos los que dejaron la vida\nesta banda no se olvida\nlo lleva en el corazón...</string>
+
+    <string name="soy_de_belgrano">
+        ¿Como paso ese momento?\nNo me lo puedo explicar..\nEl reloj del tiempo, mi juBentud echo a andar..\ncomo poder olvidar y no querer recordar\nque en un tiempo pasado me desperté enamorado\nsoy de BELGRANO soy soy soy de belgrano\nlo llevo en el corazon</string>
+
+    <string name="hay_una_banda_que_te_sigue_siempre_a_todos_lados">
+        Hay una banda que te sigue siempre a todos lados\nHay una banda que en las malas nunca se borro,\nmuchos descenso, una quiebra y nunca te ha dejado\npor que a BELGRANO se lo lleva en el corazon\nA vos te sigo aunque vos vallas bien,\na vos te sigo aunque vos vallas mal,\nyo por BELGRANO doy la vida y mucho mas</string>
+
+    <string name="todos_los_domingos">
+        Todos los domingos salimos de caraBana, me Boy a Ber al pirata,\nse lleva en el corazoooon!!\nNO como galleres, que solo va cuando gana,desaparece en las malas,\nporque es amargo cagoooon!!</string>
+
+    <string name="no_se_como_voy">
+        No se como voy, no se como vengo,\nsolo se que te vengo a alentar,\ncomo explicar este sentimiento,\nlo llevo adentro no puedo parar.\nvamos BELGRANO que todo va a estar bien,\nsiempre te alentaré, hoy no podes perder,\nBELGRANO es locura, BELGRANO es pasión,\nse lleva en el corazón, y no tiene explicacion</string>
+
+    <string name="del_barrio_de_alberdi_yo_soy">
+        Del barrio de ALBERDI yo soy,\npor eso a todo lado voy,\nte sigo toda la Argentina ,\nte aliento con el corazón,\nnunca voy a abandonarte,\nBELGRANO vos sos mi pasión,\nla banda quiere dar la vuelta quiere ser campeón,\nooh, ooh... "</string>
 </resources>
+
